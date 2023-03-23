@@ -1,6 +1,9 @@
-## mlx90640 RPI Pico
+## RPI Pico Temp Alarm
 
-This project provides a driver for communication between a raspberry pi pico and an mlx90640 thermal sensor.
+This project provides a simple measurements of temperature on various places in object and raises alarm when any point exceeds set threshold.
+
+
+Using VianPatel/mlx90640-RPI-Pico driver for communication between a raspberry pi pico and an mlx90640 thermal sensor.
 
 The api can be found in the `include` and `src` folders.
 
